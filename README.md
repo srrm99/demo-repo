@@ -40,4 +40,4 @@ else
 console.log("2 is smaller")
 }
 
-
+Some changes to see how git add and commit works
