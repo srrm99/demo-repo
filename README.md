@@ -18,4 +18,26 @@
 - Carrot
 - Brinjal
 
-[Google.com](https://google.co
+[**Google.com**](https://google.com)
+
+![Image](https://github.com/user-attachments/assets/9f1abde3-8328-4646-9eb5-88ece2ab917b)
+
+`print("hello")`
+
+```python
+print("hello")
+for i in range(10):
+  print(i)
+```
+
+```js
+if (2>5)
+{
+console.log("2 greater")
+}
+else
+{
+console.log("2 is smaller")
+}
+
+
